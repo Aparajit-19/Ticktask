@@ -11,14 +11,15 @@
 
 <h2 align="left">Techstack used:</h2>
 <ul>
-<li align="left">Frontend- HTML, CSS, JAVASCRIPT, BOOTSTRAP</li>
+<li align="left">Frontend- HTML, CSS, JAVASCRIPT</li>
 <li align="left">Backend- NODE.JS , EXPRESS.JS </li>
-<li align="left">Others- NPM, NODEMON, JSON, PROCFILE </li>
+<li align="left">Database- MONGODB </li>
+<li align="left">Others- NPM, NODEMON, JSON, EJS </li>
 </ul>
 
 <h2 align="left">Steps taken to run it:</h2>
 <ul>
 <li align="left">Initialization- npm init</li>
-<li align="left">Package installation (i.e., body-parser, express, request and https)- npm install "package"</li>
+<li align="left">Package installation (i.e., body-parser, express, moongoose and lodash)- npm install "package"</li>
 <li align="left">Run- nodemon "file name"</li>
 </ul>
