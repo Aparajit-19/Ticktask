@@ -23,3 +23,8 @@
 <li align="left">Package installation (i.e., body-parser, express, moongoose and lodash)- npm install "package"</li>
 <li align="left">Run- mongod & nodemon "file name"</li>
 </ul>
+
+<h2 align="left">Visual representation:</h2>
+<ul>
+<<img width="894" alt="Screenshot 44" src="https://github.com/Aparajit-19/Java-learning/assets/74190792/8997748e-952a-47b5-ba8c-ae8d1e249ecc">>
+</ul>
